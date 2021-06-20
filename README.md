@@ -7,10 +7,10 @@ Using readily available opensource licensed solutions to detect faces and then p
 
 <a id='ID5d0sYpQXlmeM83ZW9KcA' class='gie-single' href='http://www.gettyimages.com.au/detail/1248900571' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'><img src="https://media.gettyimages.com/photos/video-meeting-on-desktop-screen-picture-id1248900571?s=2048x2048" alt="Embed from Getty Images" /></a>
 
-$ python3 ./face_detect.py  gettyimages-1248900571-2048x2048.jpeg haarcascade_frontalface_default.xml
+```$ python3 ./face_detect.py  gettyimages-1248900571-2048x2048.jpeg haarcascade_frontalface_default.xml```
 Found 10 faces!
 
-$ for na in img-[0-9]*.jpg; do python3 get-emotion.py $na | tail -1 >> all-score; done
+```$ python3 ./get-emotion-all.py```
 
 | Filename  | Score |
 | ------------- | ------------- |
