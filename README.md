@@ -24,3 +24,5 @@ $ for na in img-[0-9]*.jpg; do python3 get-emotion.py $na | tail -1 >> all-score
 |img-7.jpg|happy 0.99|
 |img-8.jpg|neutral 0.61|
 |img-9.jpg|neutral 0.34|
+
+<img src="https://raw.githubusercontent.com/marcuspaget/VCI/main/faced-id.png" alt="identified images" />
