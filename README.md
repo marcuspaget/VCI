@@ -1,7 +1,7 @@
 # VCI
 Video Conferencing Intelligence
 
-Using readily available opensource techniques to detect faces and then perform analysis
+Using readily available opensource techniques (<a href="https://github.com/opencv/opencv" target="_blank">opencv</a>, <a href="https://github.com/matplotlib/matplotlib" target="_blank">matplotlib</a> and <a href="https://github.com/justinshenk/fer" target="_blank">FER</a>) to detect faces and then perform analysis
 
 Idea being to eventually provide a a guage showing:
 
