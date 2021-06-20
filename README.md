@@ -10,6 +10,8 @@ Using readily available opensource licensed solutions to detect faces and then p
 ```$ python3 ./face_detect.py  gettyimages-1248900571-2048x2048.jpeg haarcascade_frontalface_default.xml```
 Found 10 faces!
 
+<img src="https://raw.githubusercontent.com/marcuspaget/VCI/main/faced-id.png" alt="identified images" />
+
 ```$ python3 ./get-emotion-all.py```
 
 | Filename  | Score |
@@ -24,5 +26,3 @@ Found 10 faces!
 |img-8.jpg|neutral 0.61|
 |img-9.jpg|neutral 0.34|
 |img-10.jpg|happy 0.99|
-
-<img src="https://raw.githubusercontent.com/marcuspaget/VCI/main/faced-id.png" alt="identified images" />
