@@ -4,7 +4,6 @@ import pathlib
 from fer import FER
 import matplotlib.pyplot as plt 
 
-#path='/Users/mark/Coding/ZoomAttentionRating/2/FaceDetect/images'
 path=sys.argv[1]
 
 img_files = [f for f in os.listdir(path) if f.endswith('.jpg')]
