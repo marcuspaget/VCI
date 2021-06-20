@@ -1,7 +1,7 @@
 # VCI
 Video Conferencing Intelligence
 
-Using readily available opensource licensed solutions to detect faces and then perform analysis
+Using readily available opensource techniques to detect faces and then perform analysis
 
 Idea being to eventually provide a a guage showing:
 
